@@ -1,0 +1,6 @@
+<map id="StateMachine" name="StateMachine">
+<area shape="rect" id="node1" title="Proporciona el tipo que da acceso a una maquina de estados tipica" alt="" coords="139,184,242,211"/>
+<area shape="rect" id="node2" href="$struct_state_machine_config__t.html" title=" " alt="" coords="28,95,177,121"/>
+<area shape="rect" id="node3" href="$struct_state_machine_transition_rule__t.html" title=" " alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node4" href="$struct_state_machine_values__t.html" title=" " alt="" coords="202,95,355,121"/>
+</map>

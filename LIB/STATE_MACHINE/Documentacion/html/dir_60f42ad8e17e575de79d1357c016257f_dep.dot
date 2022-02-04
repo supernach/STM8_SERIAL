@@ -1,0 +1,13 @@
+digraph "D:/Proyectos/LIBRERIAS_PROPIAS" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_0846f012bff90a31a4dea0686e78763a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Proyectos" fontname="Helvetica", fontsize="10", URL="dir_0846f012bff90a31a4dea0686e78763a.html"]
+  subgraph clusterdir_60f42ad8e17e575de79d1357c016257f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_60f42ad8e17e575de79d1357c016257f.html"];
+    dir_60f42ad8e17e575de79d1357c016257f [shape=plaintext label="LIBRERIAS_PROPIAS"];
+  dir_0610b01fe04a4fc1ec828e267926eab9 [shape=box label="STATE_MACHINE" fillcolor="white" style="filled" color="red" URL="dir_0610b01fe04a4fc1ec828e267926eab9.html"];
+  }
+  }
+}

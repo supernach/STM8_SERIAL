@@ -1,0 +1,10 @@
+digraph "D:/Proyectos" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_0846f012bff90a31a4dea0686e78763a {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_0846f012bff90a31a4dea0686e78763a.html"];
+    dir_0846f012bff90a31a4dea0686e78763a [shape=plaintext label="Proyectos"];
+  dir_60f42ad8e17e575de79d1357c016257f [shape=box label="LIBRERIAS_PROPIAS" fillcolor="white" style="filled" color="red" URL="dir_60f42ad8e17e575de79d1357c016257f.html"];
+  }
+}

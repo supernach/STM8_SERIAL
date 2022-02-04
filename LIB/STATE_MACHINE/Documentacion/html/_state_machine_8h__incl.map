@@ -1,0 +1,8 @@
+<map id="inc/StateMachine.h" name="inc/StateMachine.h">
+<area shape="rect" id="node1" title="Proporciona una maquina de estados previamente configurada lista para inicializar y usar a traves de ..." alt="" coords="73,5,207,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="91,155,160,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,80,87,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="111,80,169,107"/>
+<area shape="rect" id="node5" href="$_state_machine_config_8h.html" title="Proporciona el tipo necesario para crear diferentes estados y diferentes transiciones...." alt="" coords="193,80,338,107"/>
+<area shape="rect" id="node6" href="$_state_machine_values_8h.html" title="Proporciona valores internos de la maquina de estado necesarios para su control y ejecucion." alt="" coords="363,80,509,107"/>
+</map>
